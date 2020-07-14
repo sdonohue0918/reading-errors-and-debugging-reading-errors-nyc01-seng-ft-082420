@@ -1,4 +1,1 @@
-def DividebyZero
-  3 / 0
-end
-  DividebyZero
+3 / 0
